@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: #fbcaef;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #c64191;
+}
+button{
+    height: 400px;
+    width: 400px;
+    background-color: #e7e5e5;
+    font-size: 100px;
+    color: #c64191;
+    box-shadow: 10px 10px 10px;
+    border-radius: 10%;
+    border: 10px;
+}
+div{
+    font-size: 200px;
+}
